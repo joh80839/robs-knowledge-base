@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Fishing in Texas
 ---
-## The index page
+## Fishing in Texas
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Hey, welcome to my 'Fishing in Texas' knowledge base! This knowledge base will explore multiple areas of fishing in Texas.
 
 ## Editing pages
 
