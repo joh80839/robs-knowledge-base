@@ -9,6 +9,6 @@ Hey, welcome to my 'Fishing in Texas' knowledge base! This knowledge base will e
 
 -[[equipment-and-gear/index | Equipment and Gear]]
 -[[fish-species/index | Fish Species]]
--[[fishing-locations/index | Fishing Locations]]
--[[regulations-and-license/index | Regulations and Licenses]]
+-[[fishing-locations/index | Fishing Locations]] 
+-[[regulations-and-licenses/index | Regulations and Licenses]] 
 -[[seasons-and-conditions/index | Seasons and Conditions]]
