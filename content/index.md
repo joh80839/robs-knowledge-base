@@ -2,9 +2,7 @@
 title: Fishing in Texas
 ---
 ---
-## Fishing in Texas
-
-Hey, welcome to my 'Fishing in Texas' knowledge base! This knowledge base will explore multiple areas of fishing in Texas. 
+Hey, welcome to my 'Fishing in Texas' knowledge base! This knowledge base will explore information about fishing in Texas. 
 
 ## Main Categories 
 

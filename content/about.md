@@ -1,1 +1,1 @@
-Hey, my name is Rob and I'm an avid angler. This knowledge base will be used to learn about fishing in a variety of areas in Texas.
+Hey, my name is Rob and I'm an avid angler. This knowledge base will be used to explore and understand fishing in the state of Texas.
