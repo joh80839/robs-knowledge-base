@@ -1,7 +1,9 @@
-# Largemouth Bass
-
+---
+title: Largemouth Bass
+---
+---
 ## Description
 
 ## Habitat
 
-### Good Baits for Largemouth Bass
+### Baits for Largemouth Bass

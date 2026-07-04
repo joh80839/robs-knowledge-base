@@ -2,8 +2,6 @@
 title: Fish Species
 ---
 ---
-# Fish Species 
-
 This section presents common fish found in Texas.
 ## Species
 

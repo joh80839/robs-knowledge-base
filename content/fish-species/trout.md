@@ -1,7 +1,9 @@
-# Trout 
-
+---
+title: Trout
+---
+---
 ## Description
 
 ## Habitat
 
-### Good Baits for Trout
+### Baits for Trout
