@@ -18,4 +18,4 @@ The most common types of catfish in Texas
 
 - Catfish like all types of bait. 
 - Chicken is a known bait that catfish really enjoy. 
-- Fake bait such as lures are known to attract many catfish.
+- A variety of fake baits can attract many catfish as well.
