@@ -2,8 +2,6 @@
 title: Catfish
 ---
 ---
-# Description
-
 Many catfish found in Texas exist primarily in freshwater habitats with [[bluegill|Bluegill]] but can tolerate brackish water to some extent. There are plenty of different species of catfish, and Texas has at least 10 different species of catfish. 
 
 The most common types of catfish in Texas 
@@ -14,7 +12,7 @@ The most common types of catfish in Texas
 
 - Flathead catfish: Known for flat head and a squared tail. They are typically yellow or brown and can be covered with black and brown streaks.
 
-### Baits for Catfish 
+# Baits for Catfish 
 
 - Catfish like all types of bait. 
 - Chicken is a known bait that catfish really enjoy. 
