@@ -6,7 +6,7 @@ There are two species of crappie that are found in Texas, the black crappie and 
 
 ## Habitat
 
-Crappies tend to be found in lakes, reservoirs, ponds, and slow-moving rivers with abundant underwater vegetation, which is similar to where [[largemouth-bass|Largemouth Bass]] are found.
+Crappies tend to be found in lakes, reservoirs, ponds, and slow-moving rivers with abundant underwater vegetation, which is similar to where [[largemouth-bass|largemouth bass]] are found.
 
 ### Baits for Crappie
 

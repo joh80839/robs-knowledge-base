@@ -2,7 +2,7 @@
 title: Catfish
 ---
 ---
-Many catfish found in Texas exist primarily in freshwater habitats with [[bluegill|Bluegill]] but can tolerate brackish water to some extent. There are plenty of different species of catfish, and Texas has at least 10 different species of catfish. 
+Many catfish found in Texas exist primarily in freshwater habitats with [[bluegill|bluegill]] but can tolerate brackish water to some extent. There are plenty of different species of catfish, and Texas has at least 10 different species of catfish. 
 
 The most common types of catfish in Texas 
 
