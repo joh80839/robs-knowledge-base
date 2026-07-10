@@ -13,3 +13,4 @@ Crappies tend to be found in lakes, reservoirs, ponds, and slow-moving rivers wi
 - Live Medium-sized minnows are good for crappie.
 - Store-bought worms or worms that have been picked from the ground work.
 - Small artificial baits such as small spinners and plastic jigs can be enticing for crappie.
+

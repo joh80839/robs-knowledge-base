@@ -15,9 +15,8 @@ They can be found throughout the continental United States and northern Mexico. 
 
 > Bluegill are most active during early mornings and late nights.
 
-![[bluegillpic.jpg|337]]
-
-
+![[assets/bluegillpic.jpg|337]]
+A bluegill swimming near aquatic vegetation.
 
 
 
