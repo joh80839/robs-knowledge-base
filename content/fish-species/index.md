@@ -10,6 +10,9 @@ This section presents common fish found in Texas.
 - [[crappie|Crappie]]
 - [[largemouth-bass|Largemouth Bass]]
 - [[trout|Trout]]
+
 ## Related Categories 
 ---
 Different [[equipment-and-gear/index|equipment and gear]] can be effective in catching different fish species.
+
+Return to [[index|Homepage]] 
