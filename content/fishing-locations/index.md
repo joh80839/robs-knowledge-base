@@ -1,5 +1,6 @@
 ---
 title: Fishing Locations
+tgs: 2026-06-12
 ---
 ---
 This section shows a variety locations for fishing in Texas.
