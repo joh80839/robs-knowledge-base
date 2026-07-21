@@ -9,7 +9,7 @@ tgs: 2026-06-12
 - [[reels|Reels]] 
 - [[rods|Rods]] 
 
-### Related Categories 
+## Related Categories 
 
 The [[fish-species/index |fish species]] you want to catch can depend on the equipment you are using.
 

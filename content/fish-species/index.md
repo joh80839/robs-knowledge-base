@@ -10,7 +10,7 @@ tgs: 2026-06-12
 - [[largemouth-bass|Largemouth Bass]]
 - [[trout|Trout]]
 
-### Related Categories 
+## Related Categories 
 
 Different [[equipment-and-gear/index|equipment and gear]] can be effective in catching different fish species.
 

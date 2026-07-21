@@ -9,7 +9,7 @@ tgs: 2026-06-12
 - [[summer|Summer]]
 - [[winter|Winter]]
 
-### Related Categories 
+## Related Categories 
 
 These seasons and conditions typically have the same [[regulations-and-licenses/index|regulations and licenses]].
 

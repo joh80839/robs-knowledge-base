@@ -9,7 +9,7 @@ tgs: 2026-06-12
 - [[lady-bird-lake|Lady Bird Lake]] 
 - [[white-rock-lake|White Rock Lake]]
 
-### Related Categories 
+## Related Categories 
 
 Understanding certain [[seasons-and-conditions/index|seasons and conditions]] can be helpful for certain fishing locations. 
 

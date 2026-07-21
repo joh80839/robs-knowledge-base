@@ -8,7 +8,7 @@ tgs: 2026-06-18
 - [[fishing-with-a-boat|Fishing with a Boat]] 
 - [[general-fishing-regulations|General Fishing Regulations]] 
 - [[size-and-bag-limits|Size and Bag Limits]] 
-### Related Categories 
+## Related Categories 
 
 These regulations and licenses can vary depending on the [[fishing-locations/index|fishing location]] you are fishing in.
 
