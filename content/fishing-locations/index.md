@@ -13,13 +13,3 @@ This section shows a variety locations for fishing in Texas.
 - [[white-rock-lake|White Rock Lake]]
 
 Return to [[index|Homepage]] 
-
-
-
-
-
-
-
-
-
-Return to [[index|Homepage]] 
