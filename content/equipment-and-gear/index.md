@@ -3,7 +3,7 @@ title: Equipment and Gear
 tgs: 2026-06-12
 ---
 ---
-Common equipment and gear you may need to fish in Texas.
+### Equipment and gear you may need to fish in Texas.
 
 - [[baits|Bait]] 
 - [[hooks-and-lures|Hooks & Lures]] 

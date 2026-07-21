@@ -10,6 +10,6 @@ Located around the east southern shores of Texas, the Corpus Christi Bay is 25 m
 
 ## Fishing Opportunities 
 
-- Spotted speckled trout is common.
+- Spotted speckled [[trout]] is common.
 - Redfish or red drum is a very popular fish in the bay.
 - Catfish is not the most common fish due the bay's close proximity to the salt water from the gulf, but they can be found sometimes.

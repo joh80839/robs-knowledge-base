@@ -3,9 +3,7 @@ title: Fishing Locations
 tgs: 2026-06-12
 ---
 ---
-This section shows a variety locations for fishing in Texas.
-
-## Locations
+###  Locations for fishing in Texas.
 
 - [[canyon-lake|Canyon Lake]]
 - [[corpus-christi-bay|Corpus Christi Bay]] 
