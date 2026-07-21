@@ -3,8 +3,6 @@ title: Fishing Locations
 tgs: 2026-06-12
 ---
 ---
-###  Locations for fishing in Texas.
-
 - [[canyon-lake|Canyon Lake]]
 - [[corpus-christi-bay|Corpus Christi Bay]] 
 - [[lady-bird-lake|Lady Bird Lake]] 

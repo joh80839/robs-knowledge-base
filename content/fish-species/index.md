@@ -3,8 +3,6 @@ title: Fish Species
 tgs: 2026-06-12
 ---
 ---
-### Fish found in Texas.
-
 - [[bluegill|Bluegill]]
 - [[catfish|Catfish]]  
 - [[crappie|Crappie]]
