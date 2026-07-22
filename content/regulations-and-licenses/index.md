@@ -10,6 +10,6 @@ tgs: 2026-06-18
 - [[size-and-bag-limits|Size and Bag Limits]] 
 ## Related Categories 
 
-These regulations and licenses can vary depending on the [[fishing-locations/index|fishing location]] you are fishing in.
+Regulations and licenses can vary depending on the [[fishing-locations/index|fishing location]] you are fishing in.
 
 Return to [[index|Homepage]] 
