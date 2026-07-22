@@ -1,5 +1,6 @@
 ---
 title: Trout
+tgs: 2026-07-03
 ---
 ---
 There are two main types of trout found in Texas: freshwater rainbow trout and saltwater speckled trout. The rainbow trout have long shaped bodies with dark spots on their forked-like tail fins. Their backs are an olive color and their bellies are silvery white. There's usually a pink-red stripe running on the side of their bodies. Saltwater speckled trout have long bodies with have dark grey or green backs. Their bellies are white and round spots can be seen on their fins and tails. They are known to have one or two teeth at the tip of their jaws. Similar to the [[largemouth-bass|largemouth bass]], the trout species is known to be an ambush predator.

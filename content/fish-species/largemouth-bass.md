@@ -1,5 +1,6 @@
 ---
 title: Largemouth Bass
+tgs: 2026-07-03
 ---
 ---
 ![[assets/Lm_bass.jpg|261]]

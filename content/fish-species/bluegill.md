@@ -1,5 +1,6 @@
 ---
 title: Bluegill
+tgs: 2026-07-03
 ---
 ---
 Bluegills are freshwater fish with flat-like round bodies. Their faces are dark blue-ish and they have black spots on each side of their heads. Their average life span in the wild can range from 5-8 years.  They are typically less than a foot long in nature but can possibly grow longer in ideal man-made conditions. 

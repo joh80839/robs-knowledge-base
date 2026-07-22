@@ -12,4 +12,6 @@ tgs: 2026-06-18
 
 Regulations and licenses can vary depending on the [[fishing-locations/index|fishing location]] you are fishing in.
 
+
+
 Return to [[index|Homepage]] 
