@@ -2,8 +2,9 @@
 title: FISHING IN TEXAS
 ---
 ---
+![[assets/white-rock-lake.jpg|556]]
 
-Hey, my name is Rob, and I'm an avid angler. **Welcome to my ‘Fishing in Texas’ knowledge base!** This knowledge base will explore information about fishing in Texas.
+Hey, my name is Rob, and I'm an avid angler. **Welcome to my ‘Fishing in Texas’ knowledge base!** This knowledge base will explore information about fishing in the waters of Texas.
 
 ## Main Categories 
 

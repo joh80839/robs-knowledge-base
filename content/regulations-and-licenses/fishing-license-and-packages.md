@@ -14,7 +14,7 @@ People aged 17 and over need a license in Texas. This is the same for in-state a
 - Texas residents born before January 1st, 1931 do not need a license.
 - People with mental disabilities can fish without a license but need to be supervised by someone that has a license.
 
-## Types of License in Texas 
+## Types of Licenses in Texas 
 
 To fish legally in Texas you need license and an endorsement, which comes as a package. You can pick from the freshwater or saltwater package. There's an **All-water package** if you plan to fish in both fresh and salt water. 
 

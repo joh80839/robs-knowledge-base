@@ -18,4 +18,6 @@ tgs: 2026-07-21
 - Unless there is a legally qualified operator older than 18, anyone born on or after September 1, 1993 must complete an approved education course when operating a boat of more than 15 horse power.
 - Keep your [[fishing-license-and-packages|fish license]] near you.
 
+![[fishing-on-a-boat.jpg|479]]
+*Two people fishing on a boat.*
 

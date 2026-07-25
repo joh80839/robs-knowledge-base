@@ -3,7 +3,6 @@ title: Fish Species
 tgs: 2026-06-12
 ---
 ---
-
 - [[bluegill|Bluegill]]
 - [[catfish|Catfish]]  
 - [[crappie|Crappie]]

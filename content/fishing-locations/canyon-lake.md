@@ -7,7 +7,7 @@ Canyon Lake is north of San Antonio and is located on the Guadalupe River. There
 > Rocky ledges and shores are common around Canyon Lake.
 
 ![[assets/canyon-lake.jpg|399]]
-
+*Canyon Lake*
 ## Fishing Opportunities 
 
 - [[largemouth-bass|Largemouth Bass]] is the most the abundant sportfish in the reservoir.

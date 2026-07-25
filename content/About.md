@@ -1,9 +1,10 @@
 ---
 title: About the Author
-tgs:
+tgs: 2026-07-19
 ---
 ---
+![[assets/fishingrod.jpg|370]]
 
-Hey! My name is Rob and I'm currently a student at Texas Tech University. I've been fishing for a little over a year. Since I've been fishing, I've mainly been a catch and release fisherman/angler, which means I typically don't eat the fish I catch, and I often throw them back into the water. 
+Hey! My name is Rob, and I'm a student at Texas Tech University. I've been fishing since May of 2025, and I haven't stopped since. I spend most of my time fishing in central Texas, and I have plans to fish in more areas in the future. 
 
 Return to [[index|Homepage]] 

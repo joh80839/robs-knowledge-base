@@ -7,7 +7,7 @@ Located around the east southern shores of Texas, the Corpus Christi Bay is 25 m
 >Christi Bay is considered by many people to be one of the windiest bays on the Texas Coast.
 
 ![[corpus-christi-1.jpg|408]]
-
+*Corpus Christi*
 ## Fishing Opportunities 
 
 - Spotted speckled [[trout]] is common.

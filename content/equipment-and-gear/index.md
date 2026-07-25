@@ -3,7 +3,6 @@ title: Equipment and Gear
 tgs: 2026-06-12
 ---
 ---
-
 - [[baits|Baits]] 
 - [[hooks|Hooks]]
 - [[rod-and-reel|Rod & Reel]] 
