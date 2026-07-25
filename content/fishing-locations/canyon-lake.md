@@ -10,9 +10,9 @@ Canyon Lake is north of San Antonio and is located on the Guadalupe River. There
 *Canyon Lake*
 ## Fishing Opportunities 
 
-- [[largemouth-bass|Largemouth Bass]] is the most the abundant sportfish in the reservoir.
+- [[largemouth-bass|Largemouth Bass]] is the most abundant sportfish in the reservoir.
 - Blue, channel, and flathead catfish are present.
 - Sunfish, such as bluegill, are present along the shallow areas.
-- Rainbow trout is mainly present during the stocking season which occurs in the winters; however, some have been recorded to survive year-round near the dams in the reservoir.
+- Rainbow trout is mainly present during the stocking season, which occurs in the winter; however, some have been recorded to survive year-round near the dams in the reservoir.
 
 

@@ -9,7 +9,7 @@ Largemouth Bass are typically green with black blotches that form a horizontal s
 
 ## Habitat
 
-Largemouth like to seek protective cover under logs, underwater vegetation, and man-made structures. They enjoy calm waters, but they are resilient and can live in a variety of habitats.
+Largemouth like to seek protective cover under logs, underwater vegetation, and man-made structures. They enjoy calm freshwaters, but they are resilient and can live in a variety of habitats.
 
 ### Baits for Largemouth Bass
 

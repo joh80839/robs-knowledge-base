@@ -2,10 +2,10 @@
 title: Size and Bag Limits
 tgs: 2026-07-22
 ---
-For those that want to take fish home, there are possess and daily bag limit regulations.
-## Fish possession Limits
+For those that want to take fish home, there are possession and daily bag limit regulations.
+## Fish Possession Limits
 
-For most areas in Texas, you can have twice the statewide daily bag limits of the fish. For an example, if the daily bag limit is 5 for a fish you can hold 10 of them at a time. 
+For most areas in Texas, you can have twice the statewide daily bag limits for a fish. For example, if the daily bag limit is 5 for a fish, you can hold 10 of them at a time. 
 
 ## Daily Bag Limits
 

@@ -2,16 +2,16 @@
 title: Rod & Reel
 tgs: 2026-07-24
 ---
-There so many different rods and reels to choose from, and this can make fishing very expensive and complicated. However, a good rod and reel setup honestly comes down to preferences.
+There are so many different rods and reels to choose from, and this can make fishing very expensive and complicated. However, a good rod and reel setup honestly comes down to preferences.
 
 ## Beginner vs Pro 
 
-Rod and reel combos tend to to be more for beginners, and they typically come with a monofilament fishing line in the reel, which allow for most combos to be used immediately after buying it. The spincast rod and reel combo is known as the most beginner combo. This setup is also very cheaper affordable. 
+Rod and reel combos tend to be more for beginners, and they typically come with a monofilament fishing line in the reel, which allow for most combos to be used immediately after buying them. The spincast rod and reel combo is known as the most beginner-friendly combo. This setup is also very affordable. 
 
 ![[assets/zebco2.jpeg|346]]
 *Zebco 33 spincast combo*
 
-Most pros are known to buy the rod and reel separate, which can get expensive. Some rods and reels can go for hundreds of US dollars each. Fishing line is bought separate, and pros tend to buy a braided fishing line. Baitcaster reels are very popular amongst pros; however, pros will typically have and use multiple reels and rods. 
+Most pros are known to buy the rod and reel separately, which can get expensive. Some rods and reels can go for hundreds of US dollars each. Fishing line is bought separately, and pros tend to buy a braided fishing line. Baitcaster reels are very popular amongst pros; however, pros will typically have and use multiple reels and rods. 
 
 ![[abugarcia-orra-sx.jpg|337]]
 *Abu Garcia Orra SX. A well valued baitcaster.*
