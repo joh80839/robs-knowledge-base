@@ -5,9 +5,9 @@ tgs: 2026-06-12
 ---
 
 - [[baits|Baits]] 
-- [[hooks-and-lures|Hooks & Lures]] 
-- [[reels|Reels]] 
-- [[rods|Rods]] 
+- [[hooks|Hooks]]
+- [[rod-and-reel|Rod & Reel]] 
+- [[lures|Lures]]
 
 ## Related Categories 
 

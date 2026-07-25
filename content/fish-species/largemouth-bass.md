@@ -15,4 +15,4 @@ Largemouth like to seek protective cover under logs, underwater vegetation, and 
 ### Baits for Largemouth Bass
 
 - Artificial bait is incredibly effective, such as  big plastic worms and jigs; jigs mimic a natural fish's movement.
-- For live bait, they like whole shad, minnows, and [[bluegill|blue gill]].
+- For live bait, they like whole shad, minnows, and [[bluegill|bluegill]].

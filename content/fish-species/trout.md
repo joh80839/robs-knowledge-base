@@ -8,7 +8,11 @@ There are two main types of trout found in Texas: freshwater rainbow trout and s
 
 Rainbow trout enjoy cool to cold waters. Common high summer temperatures in Texas stop rainbow trout from reproducing.  Due to rainbow trout not being able to survive year round in most areas in Texas, they are restocked in the winter time in a variety of areas in Texas.
 
+pic of rainbow trout
+
 Spotted speckled trout prefer shallow bays, especially in the spring and summer. When water temperatures cool during the fall, they move into deeper bay waters. 
+
+pic of spotted trout
 
 ### Baits for Trout
 
