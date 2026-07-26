@@ -42,7 +42,7 @@ Minimum length: 10 inches
 
 Daily bag limit: 5
 
-Minimum length: 14
+Minimum length: 14 inches
 
 ### Rainbow Trout
 
