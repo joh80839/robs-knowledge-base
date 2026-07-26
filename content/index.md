@@ -1,5 +1,6 @@
 ---
 title: FISHING IN TEXAS
+tgs: 2026-06-12
 ---
 ---
 ![[assets/white-rock-lake.jpg|556]]
