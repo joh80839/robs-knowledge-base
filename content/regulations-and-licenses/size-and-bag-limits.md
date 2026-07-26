@@ -9,7 +9,7 @@ For most areas in Texas, you can have twice the statewide daily bag limits for a
 
 ## Daily Bag Limits
 
-The daily bag limit is the amount of fish you can catch per day. There's also a minimum length that the fish has to be for you to be able to keep it to follow state laws.
+The daily bag limit is the amount of fish you can catch and keep per day. There's also a minimum length that the fish has to be for you to be able to keep it to follow state laws.
 
 Check out [[fish-species/index|fish species]] page for pictures.
 ## Freshwater:
